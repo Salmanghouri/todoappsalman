@@ -1,0 +1,82 @@
+body{
+    text-align: center !important;
+    padding-top: 10px !important;
+    margin: 15px !important;
+}
+
+h1{
+    color: rgb(40, 90, 92);
+    text-shadow: 0px 0px 20px darksalmon, 0px 0px 10px #965858;
+    margin-bottom: 8%;
+    font-weight: bolder;
+    font-style: oblique;
+}
+
+h2{
+    margin-top: 50px !important;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+#Additem{
+    background-color: rgb(165, 118, 118);
+    color: black;
+    border: 3px solid rgb(40, 90, 92);;
+    border-radius: 10px 0px 10px 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: 2px;
+    margin-bottom: 20px;
+    margin-right: 2px;
+    margin-left: 2px;
+    width: 130px;
+    
+}
+
+#Deleteall{
+    background-color: rgb(165, 118, 118);
+    color: black;
+    border: 3px solid rgb(40, 90, 92);;
+    border-radius: 0px 10px 0px 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    margin-right: 2px;
+    margin-left: 2px;
+    width: 130px;
+}
+
+input{
+    width: 325px;
+    padding: 15px 8px 15px 8px;
+}
+
+.inlinebttn{
+    background-color: rgb(165, 118, 118);
+    color: black;
+    border: 3px solid rgb(40, 90, 92);;
+    border-radius: 0px 10px 0px 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    
+    width: 100px;
+}
+
+
+
+.todo{
+    border: 5px solid red;
+    background-color: gray;
+    text-align: center !important;
+    margin-left: 315px; 
+    padding-bottom: 500px;
+    width: 640px;
+}
+
